@@ -56,8 +56,19 @@ button{
     width: 152px;
     background-color: #A491D2;
     height: 50px;
+    border: none;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 16px;
 }
 
+button:hover{
+    background-color: #cdc3e6;
+}
+
+button:focus{
+    background-color: #BEC1BB;
+}
 
 .container{
     display: flex;
