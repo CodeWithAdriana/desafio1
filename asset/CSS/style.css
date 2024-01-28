@@ -42,18 +42,16 @@ main{
 }
 
 .tex-foto h2{
-    font-family: 'Roboto', sans-serif;
-    font-size: 14px;
-    position: absolute;
-    top: 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin-bottom: 0px;
 }
 
 .tex-foto p{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 10px;
     color: #BEC1BB;
-    position: absolute;
-    top: 29px;
+    margin-top: 0px;
 }
 
 .iconos{
@@ -118,15 +116,16 @@ button:focus{
 }
 
 .text-2 h3{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 16px;
     margin-bottom: 0px;
 }
 
 .text-2 h4{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 12px;
     margin-top: 0px;
+    color: #343434;
 }
 
 .section2{
@@ -140,4 +139,18 @@ button:focus{
 
 .section2 img {
     display: flex;
+    width: 300px;
 }
+
+.section2 h1{
+    font-family: 'Roboto', sans-serif;;
+    font-size: 45px;
+    margin-top: 23px;
+}
+
+.section2 p{
+    font-family: 'Roboto', sans-serif;;
+    font-size: 16px;
+    text-align: center;
+    margin-top: -26px;
+}   
